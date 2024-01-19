@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec6fb07-754d-4453-a13e-4d322b9743a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Graph/AllPathsFromSourcetoTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/FindifPathExistsinGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/IslandPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/KeysandRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/MakingALargeIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/MaxAreaofIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/NumberofEnclaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/PacificAtlanticWaterFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/RedundantConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/RedundantConnectionII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/SurroundedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/CountingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/DeletetheMiddleNodeofaLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/FindPivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/FindtheDifferenceofTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/GuessNumberHigherorLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/KthLargestElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/LeafSimilarTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/MaxLevelSumOfBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/MaximumAverageSubarrayI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/N_thTribonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/NumberOfProvinces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/RecentCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/RemovingStarsFromaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/RottingOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grind75/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/FourSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/RansomNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/TwoSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/IntersectionofTwoLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/RemoveLinkedListElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/RemoveNthNodeFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/EvaluateReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/MaxSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/RemoveAllAdjacentDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/TopKFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackAndQueue/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/CombinationSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/CombinationSumIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/LetterCombinationsOfaPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/NonDecreasingSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/Permutations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/PermutationsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/ReconstructItinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/ReconstructItinerary2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/ReconstructItinerary3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/RestoreIPAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/Subsets2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/SubsetsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backTracking/SudokuSolver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/inputAndOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/AverageOfLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/ConstructBTFromPreorderAndInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/ConstructBTfromInorderAndPostorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/ConvertBSTtoGreaterTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/ConvertSortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/CountCompleteTreeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/DeleteNodeInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/FindBottomLeftTreeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/FindLargestEachRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/FindModeInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/InOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/InOrderIter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/InsertIntoABST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/InvertBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/LCAofaBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/LCAofaBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/LevelOrder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/MaximumBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/MaximumDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/MaximumDepthNaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/MergeTwoBTs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/MinimumAbsoluteDifferenceBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/MinimumDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/NaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/PathSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/PopulateNextRightPointers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/PostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/PostOrderIter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/PreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/PreOrderIter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/RightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/SearchInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/SumOfLeftLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/SymmetricTreeRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/TrimBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/ValidateBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binaryTree/nNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/BestTimeBuyandSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/BestTimeBuyandSellStockCooldown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/BestTimeBuyandSellStockII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/BestTimeBuyandSellStockIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/BestTimeBuyandSellStockIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/BestTimeBuyandSellStockTransactionFee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/CoinChangeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/CombinationSumIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/DeleteOperationforTwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/DistinctSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/HouseRobberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/HouseRobberIII2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/LastStoneWeightII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/LongestContinuousIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/MaximumLengthofRepeatedSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/OnesAndZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/PalindromicSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/PartitionEqualSubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/PerfectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/UncrossedLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/UniquePathsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/AssignCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/BestTimeBuyAndSellStockII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/GasStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/JumpGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/LemonadeChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/MaximizeSumOfArrayAfterKNegations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/MinNumOfArrowsBurstBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/MonotoneIncreasingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/NonoverlappingIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/PartitionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/QueueReconstructionByHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/WiggleSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monoStack/LargestRectangleInHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monoStack/NextGreaterElementI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monoStack/NextGreaterElementII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monoStack/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monoStack/dailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/GreatestCommonDivisorofStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/MergeStringsAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/RepeatedSubstringPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/ReverseString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/ReverseWordsinAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/findSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/leftRotateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/replaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/stringbufferandbuilder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2b8IKenmSJ7fn5A6lSgsXjxzPgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec6fb07-754d-4453-a13e-4d322b9743a5" name="Changes" comment="" />
+      <created>1705590216394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705590216394</updated>
+    </task>
+    <servers />
+  </component>
+</project>
