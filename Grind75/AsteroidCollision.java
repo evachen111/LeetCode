@@ -1,9 +1,12 @@
 package Grind75;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Stack;
 
 // 735
 public class AsteroidCollision {
+
     public void check(Stack<Integer> st, int i){
         if (st.isEmpty()){
             st.push(i);
