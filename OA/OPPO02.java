@@ -1,6 +1,5 @@
-package Top150;
+package OA;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 // a|b>=a
