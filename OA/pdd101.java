@@ -1,6 +1,6 @@
 package OA;
 
-public class pdd001 {
+public class pdd101 {
     public static void Square(int n){
         int[][] arr = new int[n][n];
 
