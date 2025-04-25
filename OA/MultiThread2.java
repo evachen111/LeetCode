@@ -7,6 +7,6 @@ public class MultiThread2 implements Runnable{
     }
 
     public static void main(String[] args) {
-        Thread t1 = new Thread(new MultiThread2()); //runnable target
+        Thread t1 = new Thread(new MultiThread2()); //传入runnable target实例化
     }
 }
